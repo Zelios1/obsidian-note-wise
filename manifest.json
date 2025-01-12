@@ -1,0 +1,11 @@
+{
+	"id": "note-wise-plugin",
+	"name": "Note Wise",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Obsidian OpenAI Auto Category and Tags Plugin",
+	"author": "Zelios1",
+	"authorUrl": "https://github.com/Zelios1/obsidian-note-wise",
+	"fundingUrl": "https://github.com/Zelios1/obsidian-note-wise",
+	"isDesktopOnly": false
+}

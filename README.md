@@ -31,6 +31,9 @@ tags:
 ## How to Install
 
 Clone this repository.
+Install dependencies: npm install
+Build: npm run dev
+
 Copy the plugin files to your .obsidian/plugins folder.
 Enable the plugin in the Obsidian settings.
 
